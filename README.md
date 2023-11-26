@@ -6,7 +6,7 @@ This repository contains solutions and code for the machine learning tasks as pa
 
 - **Description:** Classification of movie genres based on certain features.
 - **Dataset:** [Movie Genre Classification Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
-- **Approach:** Describe the approach used for genre classification..
+- **Approach:** Describe the approach used for genre classification.
 
 ### Task 2: Credit Card Fraud Detection
 
